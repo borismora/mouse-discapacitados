@@ -1,2 +1,6 @@
-# mouse-discapacitados
-Proyecto de Mouse construido con Arduino para personas que no dispongan de sus manos
+# Pulsera Mouse 
+Pulsera Mouse para personas discapacitadas compuesta por:  
+  -Arduino UNO  
+  -Acelerometro  
+  -Batería 9 V
+  
